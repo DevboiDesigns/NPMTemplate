@@ -1,6 +1,5 @@
 name: Publish package to GitHub npm registry
 on:
-  push:
   release:
     types: [published]
 jobs:
